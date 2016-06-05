@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://115.238.154.50:8081/myapp.ipa</string>
+					<string>http://115.238.154.50:8081/WaterBill.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
