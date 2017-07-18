@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://61.174.68.195:9002/dangjianyun.ipa</string>
+					<string>http://202.101.189.78:8899/dangjianyun.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://61.174.68.195:9002/web/wap/assets/images/icon.png</string>
+					<string>http://202.101.189.78:8899/web/wap/assets/images/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://61.174.68.195:9002/web/wap/assets/images/icon.png</string>
+					<string>http://202.101.189.78:8899/web/wap/assets/images/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
